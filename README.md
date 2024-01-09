@@ -1,7 +1,6 @@
 <p align=center>
 <br>
-<img src="https://img.shields.io/badge/os-linux-orange">
-<a href="https://github.com/fengbainuo"><img src="https://img.shields.io/badge/maintainer-fengbainuo-white"></a>
+## An updated fork of [dra-cla](https://github.com/CoolnsX/dra-cla) by [CoolnsX](https://github.com/CoolnsX) which currently parses an outdated website, and thus doesn't work
 
 ## Table of Contents
 - Important information regarding this fork
