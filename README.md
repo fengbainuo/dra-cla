@@ -71,5 +71,5 @@ Currently not tested with the new website, so it's not supported
 This tool is a fork of CoolnsX's [dra-cla](https://github.com/CoolnsX/dra-cla) (please read the top of this page for more information why this fork was created). From their original README:
 
 >A cli to browse and watch Korean Drama, Chinese drama. This tool scrapes the site [asianembed](https://asianembed.io) which is the site dramacool scrapes from.
-<br>
+>
 >This tool is modified version of [ani-cli](https://github.com/pystardust/ani-cli) which is anime scraping tool. Feel free to check it out if you need to watch anime.
